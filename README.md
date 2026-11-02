@@ -1,6 +1,6 @@
 # Lean Work
 
-This repository contains my ongoing **Lean 4 learning and research work** in formal methods, software verification, and automated reasoning. 
+This repository contains my ongoing **Lean 4 learning and research work**. 
 
 ## PolyContracts
 
