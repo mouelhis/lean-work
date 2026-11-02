@@ -1,0 +1,14 @@
+name = "counter"
+version = "0.1.0"
+defaultTargets = ["counter"]
+
+[[lean_lib]]
+name = "Counter"
+
+[[lean_exe]]
+name = "counter"
+root = "Main"
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"

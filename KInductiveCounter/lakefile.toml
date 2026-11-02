@@ -1,0 +1,10 @@
+name = "kInductiveCounter"
+version = "0.1.0"
+defaultTargets = ["KInductiveCounter"]
+
+[[require]]
+name = "kInduction"
+path = "../KInduction"
+
+[[lean_lib]]
+name = "KInductiveCounter"
